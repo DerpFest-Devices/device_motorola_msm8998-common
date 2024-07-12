@@ -40,12 +40,6 @@
          pulsating and RGB control would set this config to 75. -->
     <integer name="config_deviceLightCapabilities">104</integer>
 
-    <!-- Turn on LiveDisplay auto mode by default -->
-    <integer name="config_defaultLiveDisplayMode">0</integer>
-
-    <!-- Should we filter any display modes which are unampped? -->
-    <bool name="config_filterDisplayModes">true</bool>
-
     <!-- Whether device needs to wait for Qualcomm MPCTL service to start
          before setting power profiles on boot. -->
     <bool name="config_waitForMpctlOnBoot">true</bool>

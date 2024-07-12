@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "branch": "lineage-20"
+  },
+  {
+    "repository": "LineageOS/android_system_qcom",
+    "target_path": "system/qcom",
+    "branch": "lineage-20"
+  },
+  {
+    "repository": "DerpFest-Devices/hardware_motorola",
+    "target_path": "hardware/motorola"
+    "branch": "13"
+  }
+]
